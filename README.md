@@ -1,1 +1,1 @@
-# data_algorithms
+This is a collection of data analysis algorithms that are used for automation in my current position.  One algorithm is for HFE Gene Analysis and is written in Python.  The other is for JAK2 V617F Analysis and is written in R.  I have developed and deployed these for use within our lab.
